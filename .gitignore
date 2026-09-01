@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/.phpunit.result.cache
+/.idea/
+/.vscode/
+/js/node_modules/
+/js/.pnp.*
+/js/.yarn/
+npm-debug.log*
+yarn-error.log*
