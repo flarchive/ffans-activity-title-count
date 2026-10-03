@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ffans/activity-title-count.** Not for installation: use [Packagist](https://packagist.org/packages/ffans/activity-title-count) or the [upstream repository](https://github.com/FFans/activity-title-count).
 
-**0** versions archived · Latest: [`v2.0.0-beta.2`](https://github.com/flarchive/ffans-activity-title-count/tree/archive/v2.0.0-beta.2) · License: `MIT` · Flarum: `^2.0.0-rc.8`
+**2** versions archived · Latest: [`v2.0.0-beta.2`](https://github.com/flarchive/ffans-activity-title-count/tree/archive/v2.0.0-beta.2) · License: `MIT` · Flarum: `^2.0.0-rc.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.0.0-beta.1` | 2026-08-30 | `^2.0.0-rc.8` | [Browse](https://github.com/flarchive/ffans-activity-title-count/tree/archive/v2.0.0-beta.1) |
+| `v2.0.0-beta.2` | 2026-09-01 | `^2.0.0-rc.8` | [Browse](https://github.com/flarchive/ffans-activity-title-count/tree/archive/v2.0.0-beta.2) |
 
 Catalog entry: [packages/ffans-activity-title-count.json](https://github.com/flarchive/archive-index/blob/main/packages/ffans-activity-title-count.json)
 
